@@ -3,8 +3,6 @@ I created it with my 1 month of knowledge in August 2020. This is completely a m
 
 <video src="https://github.com/arindom-p/sudoku/blob/main/Recordings/movie_001.mp4" controls="controls" style="max-width: 720px;"></video>
 
-<video src="https://user-images.githubusercontent.com/88870556/213457903-af6597f3-3934-4e97-be7d-242a5a197565.mp4" controls="controls" style="max-width: 720px;"></video>
-
 https://github.com/arindom-p/sudoku/blob/main/Recordings/movie_001.mp4
 
 https://user-images.githubusercontent.com/88870556/213457903-af6597f3-3934-4e97-be7d-242a5a197565.mp4
